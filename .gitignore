@@ -1,0 +1,8 @@
+# FreeCAD backup files
+*.FCBak
+*.FCStd1
+*.FCStd2
+
+# Lock and temporary files
+*.lck
+.~lock*
