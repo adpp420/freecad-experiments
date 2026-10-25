@@ -6,3 +6,4 @@
 # Lock and temporary files
 *.lck
 .~lock*
+.DS_Store
